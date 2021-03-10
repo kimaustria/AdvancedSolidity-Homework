@@ -47,6 +47,7 @@
 17. From the main crypto wallet make a sale to the minted wallet
 18. Under "buyToken" put the appropriate wallet in the "beneficiary" slot
 19. Click "transact" when completed
+
 ![AdvancedSol7](https://user-images.githubusercontent.com/70985179/110690053-73631580-81b1-11eb-93f1-20ef79208d72.png)
 
 20. Make sure beneficiary balance is updated filling the "balanceOf" slot
