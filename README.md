@@ -40,7 +40,15 @@
 16. Check to make sure the name and symbol of your coin was minted
 
 ![AdvancedSol5](https://user-images.githubusercontent.com/70985179/110690050-72ca7f00-81b1-11eb-81dc-47db8867a3c6.png)
-
 ![AdvancedSol6](https://user-images.githubusercontent.com/70985179/110690051-73631580-81b1-11eb-8124-9159084ca686.png)
+
+# Buying Token
+
+17. From the main crypto wallet make a sale to the minted wallet
+18. Under "buyToken" put the appropriate wallet in the "beneficiary" slot
+19. Click "transact" when completed
 ![AdvancedSol7](https://user-images.githubusercontent.com/70985179/110690053-73631580-81b1-11eb-93f1-20ef79208d72.png)
+
+20. Make sure beneficiary balance is updated filling the "balanceOf" slot
+
 ![AdvancedSol8](https://user-images.githubusercontent.com/70985179/110690054-73631580-81b1-11eb-9d4f-7c1a8508ad7c.png)
