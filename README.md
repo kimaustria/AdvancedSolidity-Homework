@@ -11,7 +11,7 @@
 
 4. Create a contract called PupperCoin.sol
 5. Create code for your Pupper coin
-6. Once done click "Compile "PupperCoin.sol"
+6. Once done click "Compile PupperCoin.sol"
 
 ![AdvancedSol2](https://user-images.githubusercontent.com/70985179/110690004-6514f980-81b1-11eb-984c-fe6b1caec5f8.png)
 
