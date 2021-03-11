@@ -4,7 +4,7 @@
 
 1. Create a contract called Crowdsale.sol
 2. Create code for your crowd sale
-3. Once done Click "Compile "Crowdsale.sol"
+3. Once done Click "Compile Crowdsale.sol"
 
 ![AdvancedSol1 1](https://user-images.githubusercontent.com/70985179/110689989-60504580-81b1-11eb-99cb-ccda3b2d8914.png)
 ![AdvancedSol1 2](https://user-images.githubusercontent.com/70985179/110690002-634b3600-81b1-11eb-869f-8d04afb192c6.png)
